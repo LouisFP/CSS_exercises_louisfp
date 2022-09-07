@@ -1,0 +1,23 @@
+/* exercise_5.css */
+
+div p {
+  background-color: yellow;
+  font-size: 20px;
+  text-align: center;
+  color: red;
+}
+
+/* .container .text {
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
+
+Is also an acceptable answer */
+
+/* Or div .text
+    .container p 
+    
+as well
+    */
